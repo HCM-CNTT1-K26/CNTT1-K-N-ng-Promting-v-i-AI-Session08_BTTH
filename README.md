@@ -207,6 +207,4 @@ QUY TẮC KIỂM ĐỊNH & FALLBACK:
 
 ---
 
-## Người dùng
 
-xuất toàn bộ cuộc hội thoại ra file markdow
